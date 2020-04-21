@@ -1,7 +1,7 @@
 # Teachable-Machine
 
-This snake game is made with ML5.js library and teachable machine. .
-use voice commands UP,DOWN,LEFT,RIGHT to move the snake
+This snake game is made with ML5.js library and teachable machine.
+Use voice commands UP,DOWN,LEFT,RIGHT to move the snake
 
 
 Link for the game:
